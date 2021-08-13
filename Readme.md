@@ -1,0 +1,1 @@
+Repositório destinado a estudos diversos de tecnologia.
